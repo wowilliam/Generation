@@ -12,12 +12,12 @@ public class Estoque {
 		estoque.add("Kiwi");
 		estoque.add("Melancia");
 		estoque.add("Manga");
-		estoque.add("Lim„o");
+		estoque.add("Lim√£o");
 		
 		System.out.println("Estoque: " +estoque);
 		
 		estoque.remove("Kiwi");
-		estoque.remove("Lim„o");
+		estoque.remove("Lim√£o");
 		System.out.println("\nEstoque: " +estoque);
 		
 		
@@ -28,7 +28,7 @@ public class Estoque {
 		}
 		
 		estoque.clear(); 
-		System.out.println("\nEstoque: " +estoque);
+		
 	}
 
 }
